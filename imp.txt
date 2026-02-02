@@ -3,3 +3,6 @@ What data do I have.
 What condition do I apply.
 
 What rows remain.
+
+** Charts **
+Charts explains one question at a time. 
